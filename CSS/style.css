@@ -23,3 +23,63 @@ body {
     border-radius: 50%;
     padding: 10px;
 }
+.title h1  {
+    font-size: 40px;
+    color: #d9eaf1;
+    width: 550px;
+    text-align: center;
+    padding: 50px 0px;
+    float: right;
+    
+}
+ul, li {
+    list-style: circle;
+}
+
+h2 {
+    font-size: 23px;
+    color: blue;
+}
+p, 
+ul {
+    font-size: 16px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.contacts{
+    margin: 0 10px;
+}
+.contacts h2{
+    display: inline-block;
+    width: 50%;
+    height: 136px;
+
+}
+.contact{
+    float: right;
+    margin: 20px 0px;
+    width: 50%;
+}
+.about h2,
+.skill h2,
+.education h2,
+.english h2{
+    margin-top: 0;
+}
+.about, 
+.skill,
+.education,
+.english {
+    margin: 0 10px;
+}
+
+.footer__content {
+    background-color:blue;
+  
+}
+.footer__list a {
+    font-size: 16px;
+    line-height: 24px;
+    color: #d9eaf1;
+    display: block;
+    
+}
